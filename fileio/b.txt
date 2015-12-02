@@ -1,0 +1,6 @@
+this is a test for copy
+copy can copy content from any 'file' to any 'file'
+such as:
+./copy a.txt /dev/pts/4
+./copy /dev/pts/4 b.txt
+./copy /dev/pts/4 /dev/pts/3
